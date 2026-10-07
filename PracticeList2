@@ -1,0 +1,33 @@
+<html>
+<head>
+	 <title>List_Practice2</title>
+<body>
+	
+	<h1>Ordered List with Type</h1>
+
+    <ol type="A">
+        <li>Maths</li>
+        <li>Science</li>
+        <li>English</li>
+    </ol>
+
+	<h2>Ordered List with Start Attribut</h2>
+	
+	<ol start="5">
+		<li>Five<li>
+		<li>Six<li>
+		<li>Seven<li>
+	<ol>
+	
+	<h1>Reversed Ordered List</h1>
+
+    <ol reversed start="3">
+        <li>Step One</li>
+        <li>Step Two</li>
+        <li>Step Three</li>
+    </ol>
+
+</body>
+</html>
+	
+		
